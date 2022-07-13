@@ -1,11 +1,9 @@
 # **Simon-Game**
-## A small project developed using 
+## This game is the modern day website version of the classic **Simon game**.
+## This small project is developed using 
 - HTML
 - CSS
 - Javascript
 - jQuery
-
-
-## This game is the modern day website version of the classic **Simon game**.
 
 ## Enjoy the game!!
