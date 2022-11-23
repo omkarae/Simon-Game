@@ -7,3 +7,4 @@
 - jQuery
 
 ## Enjoy the game!!
+[Click here to play](https://omkarae.github.io/Simon-Game/)
